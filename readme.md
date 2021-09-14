@@ -1,1 +1,1 @@
-This is pztzr's first git project!
+This is ALSO pztzr's first git project!
